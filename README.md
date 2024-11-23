@@ -5,12 +5,12 @@ El dataset de costos médicos personales contiene información sobre varios fact
 En el local, ubicarse en el directorio donde desee descargar el proyecto.
 ```
 git init
-git clone https://github.com/Bagnoli95/ml-clasificacion-vinos.git
+git clone https://github.com/Bagnoli95/ml-medical-insurance.git
 cd ml-clasificacion-vinos
 ```
 
 # Como ejecutar el código:
-- Abrir el archivo clasificacion_vinos.ipynb
+- Abrir el archivo ml-medical-insurance.ipynb
 - Ejecutar el secuencialmente los bloques de código
 
 # Recorrido del código
